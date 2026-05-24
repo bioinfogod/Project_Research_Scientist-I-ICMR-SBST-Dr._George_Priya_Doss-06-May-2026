@@ -20,3 +20,17 @@ Downloading: Acinetobacter_baumannii.zip    1.19MB valid data package
 Validating package files [================================================] 100% 5/5
 sharma@bioinformatics ~/V/p/i/2/2/prs1_georgepdas_xai6may26>                                                                                        (Contact0091isd9625148079)
 ```
+# Sequence Statistics of Acinetobacter_baumannii
+```
+sharma@bioinformatics ~/V/p/i/2/2/prs1_georgepdas_xai6may26> unzip Acinetobacter_baumannii.zip                                                      (Contact0091isd9625148079) 
+Archive:  Acinetobacter_baumannii.zip
+  inflating: README.md               
+  inflating: ncbi_dataset/data/assembly_data_report.jsonl  
+  inflating: ncbi_dataset/data/GCF_009035845.1/GCF_009035845.1_ASM903584v1_genomic.fna  
+  inflating: ncbi_dataset/data/dataset_catalog.json  
+  inflating: md5sum.txt              
+sharma@bioinformatics ~/V/p/i/2/2/prs1_georgepdas_xai6may26> seqkit stats GCF_009035845.1_ASM903584v1_cds_from_genomic.fna.gz                       (Contact0091isd9625148079) 
+file                                                 format  type  num_seqs    sum_len  min_len  avg_len  max_len
+GCF_009035845.1_ASM903584v1_cds_from_genomic.fna.gz  FASTA   DNA      3,736  3,508,575       63    939.1   18,543
+sharma@bioinformatics ~/V/p/i/2/2/prs1_georgepdas_xai6may26>                                                                                        (Contact0091isd9625148079)
+```

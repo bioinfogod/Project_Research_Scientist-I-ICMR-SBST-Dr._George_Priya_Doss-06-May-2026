@@ -6,4 +6,14 @@ Acinetobacter baumannii is a species of g-proteobacterium in the family Moraxell
 ## Taxonomy ID: 470
 
 # 25 Hits in National Center for Biotechnology Information (NCBI)
+https://www.ncbi.nlm.nih.gov/search/all/?term=Acinetobacter+baumannii
 <img width="1525" height="856" alt="Acinetobacter_baumannii" src="https://github.com/user-attachments/assets/8d1108c3-ca34-4ec7-80e7-d0c8b5239a32" />
+
+# DownLoad RefSeq Reference Genome using NCBI-datasets-CLI-tool
+sharma@bioinformatics ~/V/p/i/2/2/prs1_georgepdas_xai6may26> datasets download genome accession GCF_009035845.1 --filename Acinetobacter_baumannii.zip
+
+New version of client (18.28.0) available at https://ftp.ncbi.nlm.nih.gov/pub/datasets/command-line/LATEST/linux-amd64/datasets.
+Collecting 1 genome record [================================================] 100% 1/1
+Downloading: Acinetobacter_baumannii.zip    1.19MB valid data package
+Validating package files [================================================] 100% 5/5
+sharma@bioinformatics ~/V/p/i/2/2/prs1_georgepdas_xai6may26>                                                                                        (Contact0091isd9625148079)

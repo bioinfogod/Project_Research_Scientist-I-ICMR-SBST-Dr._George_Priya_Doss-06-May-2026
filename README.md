@@ -1,5 +1,6 @@
 # Project_Research_Scientist-I-ICMR-SBST-Dr._George_Priya_Doss-06-May-2026
 Explainable Artificial Intelligence (XAI) to Identify Synergistic Antimicrobial Combinations for the Treatment of Carbapenem-Resistant Acinetobacter baumannii 
+https://careers.vit.ac.in/vit/jobview/project-research-scientist-i-icmr-sbst-dr-george-priya-doss-vellore-institute-of-technology-tiruvalam-road-katpadi-vellore-tamil-nadu-india-knowledge-and-experience-in-the-development-of-interpretable-machine-learning-models-with-human-understandable-features-2026050614304589
 
 # Acinetobacter baumannii
 Acinetobacter baumannii is a species of g-proteobacterium in the family Moraxellaceae.
